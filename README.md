@@ -70,4 +70,4 @@ In the following table, you may find all available samples provided in the separ
 [docs:eps]: https://plugins.jetbrains.com/docs/intellij/extension-point-list.html
 [docs:gradle]: https://plugins.jetbrains.com/docs/intellij/developing-plugins.html
 [docs:plugin.xml]: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html
-[docs:explore-api]: https://plugins.jetbrains.com/docs/intellij/explore-api.html
+[docs:explore-api]: https://plugins.jetbrains.com/docs/intellij/explotre-api.html
